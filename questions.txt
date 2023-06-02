@@ -1,0 +1,20 @@
+    Q. Chukker and Mallet terms are associated with the game of- ", "1. Water Polo.", "2. Tennis. ", "3. Polo. ", "4. Basket Ball. ", 3
+    Q. Who among the following Tennis Player has won the US Open Men's Title 2020?", "1. Roger Federer.", "2. Novak Djokovic. ", "3. Rafael Nadal.", "4. Dominic Thiem.", 4
+    Q. who was the captain of pakistan cricket team of icc world cup t20 2009?", "1. Shoaib Malik.", "2. Younas Khan. ", "3. Salman Butt.", "4. Shahid Afridi.", 2
+    Q. which country created hockey?", "1. Pakistan .", "2. England . ", "3. Iran     .", "4.None of the above.", 2
+    Q. What is the national sport in Japan?", "1. Hockey", "2. Sumo wrestling", "3.Cricket", "4. Football", 2
+    Q. Which is not a High Level Language?", "1. C++", "2. Kobol . ", "3. Java  .", "4. Python", 2
+    Q. Special symbol permitted with in the identifier name.", "1. @.", "2. $. ", "3. -.", "4. _.", 4
+    Q. To print a float value which format specifier can be used?.", "1. %f.", "2. %lf. ", "3. %Lf.", "4. None of the above.", 1
+    Q. Choose the Object oriented programming language from below.", "1.C++ ", "3.NET ", "2.Java", "4.All of the Above . ", 4
+    Q. in C language, when the ration of loop repetion is unknown then the:", "1. while loop is used", "2. for loop is used", "3. do-while loop is used", "4.None", 1
+    Q. Which Disney movie was the first to be nominated for an Oscar?. ", "1. Beauty and the Beast.", "2. Snow White and the Seven Dwarf's.", "3. Lion King. ", "4. Aladin. ", 1
+    Q. The following dialogue is from which movie : what we do in life......echoes in eternity. ?", "1. Any Given Sunday.", "2. American Gangster. ", "3. Gladiator.", "4. Predator.", 3
+    Q. Who played Jack in Titanic? ", "1. Bill Paxton.", "2. Leonardo DiCaprio. ", "3. Frances Fisher.", "4. Victor Garbor.", 2
+    Q. Where did Harry Potter go to school?", "1. Hogwarts.", "2. Stanford University. ", "3. Eastwood High.", "4. Star Reachers.", 1
+    Q. What year was the first Toy Story film released in cinemas?", "1. 2000", "2. 1995", "3. 2002", "4. 1992", 2
+    Q. What is the biggest planet in our solar system?.", "1.Pluto. ", "2.Jupiter . ", "3. Mars", "4. None", 2
+    Q. How many hearts do octopuses have?.", "1.One. ", "2.Ten . ", "3. Five.  ", "4.Three  . ", 4
+    Q. Which two planets lacks moon?.", "1.Mars and Mercury. ", "2.Mercury and Venus . ", "3.Mars and Venus.  ", "4.venus and Jupiter  . ", 2
+    Q. What is the most abundant gas in the Earth’s atmosphere?.", "1.Nitrogen. ", "2.Oxygen . ", "3.Hydrogen  ", "4.Neon . ", 1
+    Q. At what temperature are Farenheit and Celsius equal to each other?", "1.  -40", "2. 60", "3. 180", "4. None", 1
